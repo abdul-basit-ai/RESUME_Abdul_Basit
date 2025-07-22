@@ -21,7 +21,7 @@ We propose sending your resume as a plain text file. This format is more accessi
 
 ## Examples
 
-```markdown
+```
 # Mario Rossi
 
 ## Contact Information
