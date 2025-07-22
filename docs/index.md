@@ -1,3 +1,7 @@
+---
+title: resume.txt
+---
+
 # Why resume.txt
 
 ## The problem
