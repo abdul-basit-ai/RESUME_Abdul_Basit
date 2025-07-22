@@ -4,7 +4,7 @@ title: resume.txt
 
 <style>
 pre {
-    white-space: pre-wrap;
+    white-space: pre-line;
 }
 </style>
 
