@@ -2,6 +2,12 @@
 title: resume.txt
 ---
 
+<style>
+pre {
+    white-space: pre-wrap;
+}
+</style>
+
 # Why resume.txt
 
 ## The problem
