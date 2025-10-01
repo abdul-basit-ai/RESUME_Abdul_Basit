@@ -42,11 +42,15 @@ domains.
 
 ### AI Based Plant Monitoring System For Identification of Diseases Using Cable Driven Parallel Robot. (Funded)
 - Extracted and pre-processed the dataset of various plant diseases.
-- Studied and Implemented 5 different CNN Architectures including (ResNet50, VGG16, VGG19, MobileNet V1 and V2)
-- Did comparitive analysis and deployed these models on our device (Raspberry Pi) for real time detection using TF-lite.
+- Studied and Implemented 5 different CNN Architectures including (ResNet50, VGG16, VGG19, MobileNet V1 & V2)
+- Did comparitive analysis and deployed these models on (Raspberry Pi) for real time detection using TF-lite.
 - Integrated our AI system on the end-effector of our robot and upgraded the robot control's from fixed point to operatable using Xbox-Joyystick using python's library.
 
 ## Personal Projects
+**Implemented original Transformer paper from Scratch using Pytorch for translation task (FR-ENG)**
+**Implemented VIT-Vision Transformer from Scratch using Pytorch on CIFAR10 dataset**
+**Fine-tuned(Instruction based) Mistral-7B using Q-LoRA on Alpaca Dataset released by Stanford**
+**Developed a Multimodal RAG System (ColSmolVLM & SmolVLM) for document intelligence**
 
 ## Technical Skills
 
@@ -69,7 +73,7 @@ Programming, Embedded Systems Design, FPGA Based Systems Design)
  ### Dr Hedia Tabia
  - Professor at Univerity of Paris Saclay
  - Email : hedi.tabia@univ-evry.fr
- - (Supervisor my projects during Master1&2)
+ - (Supervise my projects during Master1&2)
  ### Dr Abdul Attayyab Khan
   - Professor at Bahria Univeristy
  - Email : aakhan.bukc@bahria.edu.pk
