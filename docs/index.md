@@ -10,6 +10,17 @@ pre {
 
 #  ABDUL BASIT
 
+## Contact Information
+
+- Email: basitmal36@gmail.com
+- Phone: +33 773642923
+- LinkedIn: https://www.linkedin.com/in/abdul-basit-742a32221/
+- GitHub: https://github.com/abdul-basit-ai
+
+  ## Summary
+
+Master-2 student in Machine Vision and Artificial Intelligence at UPSaclay in concluding phase of M.S, specializing in LLM, Computer Vision, Deep learning, Finetuning, RAG, RL and building LLM-based applications. I find myself driven towards Research based projects and I equally enjoy working on the robust engineering and deployment aspects to bring those concepts to life.
+
 ## RESEARCH EXPERIENCE
 
 A resume should be a concise, well-organized document that highlights your skills, experience, and achievements. Many companies employ large language models to filter resumes, and these models are trained on text data. This means that the format of your resume can significantly impact how it is interpreted by these models. Most resumes, despite being made of plain texts with sections, are sent in PDF format, which is not ideal for large language models. Moreover, PDF files may contain hidden metadata, fonts, and other elements that can interfere with the model's ability to extract relevant information or even introduce biases and jailbreaks.
