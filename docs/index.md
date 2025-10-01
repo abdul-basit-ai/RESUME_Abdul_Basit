@@ -47,10 +47,11 @@ domains.
 - Integrated our AI system on the end-effector of our robot and upgraded the robot control's from fixed point to operatable using Xbox-Joyystick using python's library.
 
 ## Personal Projects
-**Implemented original Transformer paper from Scratch using Pytorch for translation task (FR-ENG)**
-**Implemented VIT-Vision Transformer from Scratch using Pytorch on CIFAR10 dataset**
-**Fine-tuned(Instruction based) Mistral-7B using Q-LoRA on Alpaca Dataset released by Stanford**
-**Developed a Multimodal RAG System (ColSmolVLM & SmolVLM) for document intelligence**
+
+- Implemented original Transformer paper from Scratch using Pytorch for translation task (FR-ENG)**
+- Implemented VIT-Vision Transformer from Scratch using Pytorch on CIFAR10 dataset**
+- Fine-tuned(Instruction based) Mistral-7B using Q-LoRA on Alpaca Dataset released by Stanford**
+- Developed a Multimodal RAG System (ColSmolVLM & SmolVLM) for document intelligence**
 
 ## Technical Skills
 
