@@ -27,7 +27,14 @@ A resume should be a concise, well-organized document that highlights your skill
 
 ## EDUCATION
 
-We propose sending your resume as a plain text file. This format is more accessible to large language models, as it is a simple, unstructured format that is easy to parse and understand. We understand that a resume may need to be formatted with sections and subsections, and that's why we recommend formatting your resume as a Markdown file. Avoid using HTML or other complex formatting: keep it simple and clean.
+### M2 Machine Vision and Artificial Intelligence (MMVAI)
+### M1 Engineering (E3A)
+University of Paris Saclay 
+*2045 - 2026*
+
+### Bachelor of Engineering (EE)
+Bahria Univeristy
+*2020 - 2024*
 
 ## Advantages
 
@@ -61,6 +68,8 @@ Polytechnic University of Milan, Milan, Italy
 - Assisted in the development of a new algorithm for clustering cute and super cute cats.
 - Conducted experiments on the effects of petting on cat happiness.
 - Published a paper on the impact of cat videos on human happiness.
+
+###
 
 ### Cat Cuddler
 Cat Lovers Inc., Milan, Italy
