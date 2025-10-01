@@ -31,7 +31,14 @@ images, including Neural Radiance Fields (NeRF), Instant NeRF, PixelNeRF, Gaussi
 rendering, multi-resolution hash encoding, CNN-based feature extraction, and Signed Distance Functions.
 - Critically evaluated the strengths, limitations, and key innovations of each approach in achieving high-fidelity 3D reconstructions
 from various input data scenarios (multi-view, single)
-A resume should be a concise, well-organized document that highlights your skills, experience, and achievements. Many companies employ large language models to filter resumes, and these models are trained on text data. This means that the format of your resume can significantly impact how it is interpreted by these models. Most resumes, despite being made of plain texts with sections, are sent in PDF format, which is not ideal for large language models. Moreover, PDF files may contain hidden metadata, fonts, and other elements that can interfere with the model's ability to extract relevant information or even introduce biases and jailbreaks.
+
+### Style Transfer and Improved CNN Performance Using GAN-Based Data Augmentation
+- Build and implemented custom CNN and advanced architectures like ResNet50, VGG16 etc to get a baseline performance on
+given data and measure the impact of data augmentation.
+- Developed and trained Conditional GANs (C-GANs) with progressive resolution growth to generate high-quality synthetic data.
+Utilized this augmented data to significantly improve the performance of CNN classifiers and compared it to GAN with soft labels.
+- Implemented CycleGAN for unpaired image-to-image translation, demonstrating the ability to transfer styles between image
+domains.
 
 ## EDUCATION
 
