@@ -23,6 +23,14 @@ Master-2 student in Machine Vision and Artificial Intelligence at UPSaclay in co
 
 ## RESEARCH EXPERIENCE
 
+### 3-D Reconstruction of Scenes from Images
+
+- Conducted a comprehensive study and analysis of state-of-the-art machine learning techniques for 3D reconstruction from 2D
+images, including Neural Radiance Fields (NeRF), Instant NeRF, PixelNeRF, Gaussian Splatting and Neuralangelo.
+- Demonstrated a strong understanding of the principles, architectures, and advancements of each method, including volume
+rendering, multi-resolution hash encoding, CNN-based feature extraction, and Signed Distance Functions.
+- Critically evaluated the strengths, limitations, and key innovations of each approach in achieving high-fidelity 3D reconstructions
+from various input data scenarios (multi-view, single)
 A resume should be a concise, well-organized document that highlights your skills, experience, and achievements. Many companies employ large language models to filter resumes, and these models are trained on text data. This means that the format of your resume can significantly impact how it is interpreted by these models. Most resumes, despite being made of plain texts with sections, are sent in PDF format, which is not ideal for large language models. Moreover, PDF files may contain hidden metadata, fonts, and other elements that can interfere with the model's ability to extract relevant information or even introduce biases and jailbreaks.
 
 ## EDUCATION
@@ -30,7 +38,7 @@ A resume should be a concise, well-organized document that highlights your skill
 ### M2 Machine Vision and Artificial Intelligence (MMVAI)
 ### M1 Engineering (E3A)
 University of Paris Saclay 
-*2045 - 2026*
+*2024 - 2026*
 
 ### Bachelor of Engineering (EE)
 Bahria Univeristy
