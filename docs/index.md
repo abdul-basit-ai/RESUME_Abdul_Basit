@@ -46,6 +46,8 @@ domains.
 - Did comparitive analysis and deployed these models on our device (Raspberry Pi) for real time detection using TF-lite.
 - Integrated our AI system on the end-effector of our robot and upgraded the robot control's from fixed point to operatable using Xbox-Joyystick using python's library.
 
+## Personal Projects
+
 ## Technical Skills
 
 - **Programming Languages & Frameworks**: Python, C++, C , Verilog, VHDL, Pytorch, Tensorflow, Keras, Huggingface, LLM-API's, Matplotlib, OpenCV, Pillow, Git/Github, Notebooks.
@@ -55,13 +57,20 @@ domains.
 
 ### M2 Machine Vision and Artificial Intelligence (MMVAI)
 ### M1 Engineering (E3A)
-University of Paris Saclay 
-*2024 - 2026*
-
+University of Paris Saclay *2024 - 2026*
+- Electives (Machine Learning, Advances in Machine Vision, Reinforcment Learning, Image and Video Processing, Statistical Machine Learning, Information theory and Source Coding, Embedded Systems, Progamming)
+  
 ### Bachelor of Engineering (EE)
-Bahria Univeristy
-*2020 - 2024*
+Bahria Univeristy *2020 - 2024*
+- Electives (Computer Vision, Machine Learning, Digital Signal Processing, Computer Communication & Networks, Object Oriented
+Programming, Embedded Systems Design, FPGA Based Systems Design)
 
  ## Recommendations
- ### Dr Hedia Tabia, Professor at Univerity of Paris Saclay
- ### Dr Abdul Attayyab Khan, Professor at Bahria Univeristy
+ ### Dr Hedia Tabia
+ - Professor at Univerity of Paris Saclay
+ - Email : hedi.tabia@univ-evry.fr
+ - (Supervisor my projects during Master1&2)
+ ### Dr Abdul Attayyab Khan
+  - Professor at Bahria Univeristy
+ - Email : aakhan.bukc@bahria.edu.pk
+ - (Supervised my Bachelor's Final Year Project)
