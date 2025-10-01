@@ -58,19 +58,38 @@ domains.
 ### M2 Machine Vision and Artificial Intelligence (MMVAI)
 ### M1 Engineering (E3A)
 University of Paris Saclay *2024 - 2026*
-- Electives (Machine Learning, Advances in Machine Vision, Reinforcment Learning, Image and Video Processing, Statistical Machine Learning, Information theory and Source Coding, Embedded Systems, Progamming)
+- Electives (Machine Learning, Advances in Machine Vision, Reinforcement Learning, Image and Video Processing, Statistical Machine Learning, Information theory and Source Coding, Embedded Systems, Progamming)
   
 ### Bachelor of Engineering (EE)
 Bahria Univeristy *2020 - 2024*
 - Electives (Computer Vision, Machine Learning, Digital Signal Processing, Computer Communication & Networks, Object Oriented
 Programming, Embedded Systems Design, FPGA Based Systems Design)
 
+## Work Experience
+### Automation Engineering Intern
+- Implemented PLC code for process automation
+- Ensure accurate feedback from sensor
+- Identified and resolve issues in PLC system
+- Monitor the Generation of plant
+
+## HONOURS AND AWARDS
+- ## National Grassroots Research Initiative Fund
+Awarded NGIRI Fund For Bachelors Thesis
+- ## Government of Pakistan
+Awarded a Laptop from PMYLS
+
  ## Recommendations
  ### Dr Hedia Tabia
- - Professor at Univerity of Paris Saclay
+ - Professor at University of Paris Saclay
  - Email : hedi.tabia@univ-evry.fr
- - (Supervise my projects during Master1&2)
+ - (Supervised my projects during Master1&2)
  ### Dr Abdul Attayyab Khan
   - Professor at Bahria Univeristy
  - Email : aakhan.bukc@bahria.edu.pk
  - (Supervised my Bachelor's Final Year Project)
+
+## MANAGEMENT AND LEADERSHIP SKILLS
+### Head of Operations
+I served as Head of Operation in the Bahria Visionary Club for almost 2 semesters. A Society committed to helping students with
+personal development and social communication skills. During this duration, we organized different workshops, seminars, food
+drives, and community service visits
