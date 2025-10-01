@@ -40,8 +40,7 @@ given data and measure the impact of data augmentation.
 - Implemented CycleGAN for unpaired image-to-image translation, demonstrating the ability to transfer styles between image
 domains.
 
-### AI Based Plant Monitoring System For Identification of Diseases Using Cable Driven Parallel Robot
-### This project later got Funded by IGNITE NGIRI.
+### AI Based Plant Monitoring System For Identification of Diseases Using Cable Driven Parallel Robot. This project later got Funded by IGNITE NGIRI.
 - Extracted and pre-processed the dataset of various plant diseases.
 - Studied and Implemented 5 different CNN Architectures including (ResNet50, VGG16, VGG19, MobileNet V1 and V2)
 - Did comparitive analysis and deployed these models on our device (Raspberry Pi) for real time detection using TF-lite.
