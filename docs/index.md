@@ -45,8 +45,14 @@ domains.
 - Studied and Implemented 5 different CNN Architectures including (ResNet50, VGG16, VGG19, MobileNet V1 and V2)
 - Did comparitive analysis and deployed these models on our device (Raspberry Pi) for real time detection using TF-lite.
 - Integrated our AI system on the end-effector of our robot and upgraded the robot control's from fixed point to operatable using Xbox-Joyystick using python's library.
-  
-## EDUCATION
+
+## Technical Skills
+
+- **Proogramming Languages**: Python, C++, C , Verilog, VHDL.
+- **AI Frameworks**: Pytorch, Tensorflow, Keras, Huggingface, LLM-API's, Matplotlib, OpenCV, Pillow, Git/Github, Notebooks.
+- **Languages**: English (Fluent), French (Actively Learning)
+
+  ## EDUCATION
 
 ### M2 Machine Vision and Artificial Intelligence (MMVAI)
 ### M1 Engineering (E3A)
@@ -56,64 +62,3 @@ University of Paris Saclay
 ### Bachelor of Engineering (EE)
 Bahria Univeristy
 *2020 - 2024*
-
-## Advantages
-
-- **Simplicity**: Plain text is easy to read and understand.
-- **Accessibility**: Large language models can easily parse and understand plain text.
-- **No hidden metadata**: Plain text does not contain hidden metadata, fonts, or other elements that can interfere with the model's ability to extract relevant information.
-- **Naturally anonymizable**: If you information is in plain text, an LLM can easily anonymize it for you to remove any bias related to your personal information (e.g. name, nationality, gender, age, etc.)
-
-## Examples
-
-```
-# Mario Rossi
-
-## Contact Information
-
-- Email: mario.rossi@example.com
-- Phone: +39 123 456 7890
-- LinkedIn: linkedin.com/in/...
-- GitHub: github.com/...
-
-## Summary
-
-Researcher with a strong background in cuddling cats and being cute in general. PhD in Cuteness Science (CS) from Polytechnic University of Milan in 2020. Proficient in Meowthon, Purrl, and Cat++. Passionate about making the world a better place, one cute meow at a time.
-
-## Experience
-
-### Research Assistant
-Polytechnic University of Milan, Milan, Italy
-*2019 - 2020*
-
-- Assisted in the development of a new algorithm for clustering cute and super cute cats.
-- Conducted experiments on the effects of petting on cat happiness.
-- Published a paper on the impact of cat videos on human happiness.
-
-###
-
-### Cat Cuddler
-Cat Lovers Inc., Milan, Italy
-*2017 - 2019*
-
-- Provided professional cuddling services to cats of all sizes and breeds.
-- Developed a new technique for cuddling cats that increased their happiness by 30%.
-- Trained a team of cat cuddlers to maintain high standards of service.
-
-## Education
-
-### PhD in Cuteness Science (CS)
-Polytechnic University of Milan, Milan, Italy
-*2016 - 2020*
-
-- Thesis: "The Impact of Cuteness on Human Happiness"
-- Advisor: Prof. Dr. Cute McCuteness
-
-### Master of Science in Cat Science (CS)
-Polytechnic University of Milan, Milan, Italy
-*2014 - 2016*
-
-### Bachelor of Science in Dog Science (CS)
-Polytechnic University of Milan, Milan, Italy
-*2010 - 2014*
-```
