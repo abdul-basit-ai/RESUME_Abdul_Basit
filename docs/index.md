@@ -36,15 +36,15 @@ from various input data scenarios (multi-view, single)
 - Build and implemented custom CNN and advanced architectures like ResNet50, VGG16 etc to get a baseline performance on
 given data and measure the impact of data augmentation.
 - Developed and trained Conditional GANs (C-GANs) with progressive resolution growth to generate high-quality synthetic data.
-Utilized this augmented data to significantly improve the performance of CNN classifiers and compared it to GAN with soft labels.
+- Utilized this augmented data to significantly improve the performance of CNN classifiers and compared it to GAN with soft labels.
 - Implemented CycleGAN for unpaired image-to-image translation, demonstrating the ability to transfer styles between image
 domains.
 
-### AI Based Plant Monitoring System For Identification of Diseases Using Cable Driven Parallel Robot - Funded by IGNITE
-NGIRI
+### AI Based Plant Monitoring System For Identification of Diseases Using Cable Driven Parallel Robot
+### This project later got Funded by IGNITE NGIRI.
 - Extracted and pre-processed the dataset of various plant diseases.
 - Studied and Implemented 5 different CNN Architectures including (ResNet50, VGG16, VGG19, MobileNet V1 and V2)
-- Did comparitive analysis and deployed these models on oue end device (Raspberry Pi) for real time detection using TF-lite.
+- Did comparitive analysis and deployed these models on our device (Raspberry Pi) for real time detection using TF-lite.
 - Integrated our AI system on the end-effector of our robot and upgraded the robot control's from fixed point to operatable using Xbox-Joyystick using python's library.
   
 ## EDUCATION
