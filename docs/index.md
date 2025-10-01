@@ -48,9 +48,8 @@ domains.
 
 ## Technical Skills
 
-- **Proogramming Languages**: Python, C++, C , Verilog, VHDL.
-- **AI Frameworks**: Pytorch, Tensorflow, Keras, Huggingface, LLM-API's, Matplotlib, OpenCV, Pillow, Git/Github, Notebooks.
-- **Languages**: English (Fluent), French (Actively Learning)
+- **Programming Languages & Frameworks**: Python, C++, C , Verilog, VHDL, Pytorch, Tensorflow, Keras, Huggingface, LLM-API's, Matplotlib, OpenCV, Pillow, Git/Github, Notebooks.
+- **Languages**: English (Fluent), French (Actively Learning) 
 
   ## EDUCATION
 
@@ -62,3 +61,7 @@ University of Paris Saclay
 ### Bachelor of Engineering (EE)
 Bahria Univeristy
 *2020 - 2024*
+
+ ## Recommendations
+ ### Dr Hedia Tabia, Professor at Univerity of Paris Saclay
+ ### Dr Abdul Attayyab Khan, Professor at Bahria Univeristy
