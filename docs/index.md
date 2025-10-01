@@ -40,6 +40,13 @@ Utilized this augmented data to significantly improve the performance of CNN cla
 - Implemented CycleGAN for unpaired image-to-image translation, demonstrating the ability to transfer styles between image
 domains.
 
+### AI Based Plant Monitoring System For Identification of Diseases Using Cable Driven Parallel Robot - Funded by IGNITE
+NGIRI
+- Extracted and pre-processed the dataset of various plant diseases.
+- Studied and Implemented 5 different CNN Architectures including (ResNet50, VGG16, VGG19, MobileNet V1 and V2)
+- Did comparitive analysis and deployed these models on oue end device (Raspberry Pi) for real time detection using TF-lite.
+- Integrated our AI system on the end-effector of our robot and upgraded the robot control's from fixed point to operatable using Xbox-Joyystick using python's library.
+  
 ## EDUCATION
 
 ### M2 Machine Vision and Artificial Intelligence (MMVAI)
