@@ -53,6 +53,11 @@ domains.
 - **Programming Languages & Frameworks**: Python, C++, C , Verilog, VHDL, Pytorch, Tensorflow, Keras, Huggingface, LLM-API's, Matplotlib, OpenCV, Pillow, Git/Github, Notebooks.
 - **Languages**: English (Fluent), French (Actively Learning) 
 
+## WORK EXPERIENCE	
+
+### Engineering Intern - Aquagen Pvt.Ltd (Aug 2023-Sept 2023)
+During my internship, I implemented PLC code for process automation, ensuring accurate feedback from the sensor. I also identified and resolved issues in the PLC system. I also upgraded the HMI for monitoring the Generation of the plant.   
+
   ## EDUCATION
 
 ### M2 Machine Vision and Artificial Intelligence (MMVAI)
