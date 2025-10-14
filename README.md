@@ -46,7 +46,7 @@ domains.
 - Implemented original Transformer paper from Scratch using Pytorch for translation task (FR-ENG)
 - Implemented VIT-Vision Transformer from Scratch using Pytorch on CIFAR10 dataset
 - Fine-tuned(Instruction based) Mistral-7B using Q-LoRA on Alpaca Dataset released by Stanford
-- Developed a Multimodal RAG System (ColSmolVLM & SmolVLM) for document intelligence
+- Developed a RAG System for specific Q/A
 
 ## Technical Skills
 
