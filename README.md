@@ -70,13 +70,6 @@ Bahria Univeristy *2020 - 2024*
 - Electives (Computer Vision, Machine Learning, Digital Signal Processing, Computer Communication & Networks, Object Oriented
 Programming, Embedded Systems Design, FPGA Based Systems Design)
 
-## Work Experience
-### Automation Engineering Intern
-- Implemented PLC code for process automation
-- Ensure accurate feedback from sensor
-- Identified and resolve issues in PLC system
-- Monitor the Generation of plant
-
 ## HONOURS AND AWARDS
 - ## National Grassroots Research Initiative Fund
 Awarded NGIRI Fund For Bachelors Thesis
