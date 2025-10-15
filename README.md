@@ -47,6 +47,7 @@ domains.
 - Implemented VIT-Vision Transformer from Scratch using Pytorch on CIFAR10 dataset
 - Fine-tuned(Instruction based) Mistral-7B using Q-LoRA on Alpaca Dataset released by Stanford
 - Developed a RAG System for specific Q/A using LangChain
+- Granite Time Series for Energy Forecasting
 
 ## Technical Skills
 
