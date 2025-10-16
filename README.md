@@ -62,6 +62,7 @@ During my internship, I implemented PLC code for process automation, ensuring ac
   ## EDUCATION
 
 ### M2 Machine Vision and Artificial Intelligence (MMVAI)
+- Electives: (Reinforcement Learning, Advances in Machine Vision, Advanced Machine Learning, Virtual and Mixed Reality, 3-D Data Analysis, Computer Vision for non-conventional cameras)
 ### M1 Engineering (E3A)
 University of Paris Saclay *2024 - 2026*
 - Electives (Machine Learning, Advances in Machine Vision, Reinforcement Learning, Image and Video Processing, Statistical Machine Learning, Information theory and Source Coding, Embedded Systems, Progamming)
@@ -92,3 +93,6 @@ Awarded a Laptop from PMYLS
 I served as Head of Operation in the Bahria Visionary Club for almost 2 semesters. A Society committed to helping students with
 personal development and social communication skills. During this duration, we organized different workshops, seminars, food
 drives, and community service visits
+
+
+
