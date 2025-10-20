@@ -18,6 +18,10 @@ Master-2 student in Machine Vision and Artificial Intelligence at UPSaclay in co
 
 ## RESEARCH EXPERIENCE
 
+### Text-Guided Video Segment Search 
+
+Currently I am working on a research project, text-guided temporal video retrieval, focusing on retrieving specific moments within videos based on natural language queries. 
+
 ### 3-D Reconstruction of Scenes from Images
 
 - Conducted a comprehensive study and analysis of state-of-the-art machine learning techniques for 3D reconstruction from 2D
@@ -28,6 +32,7 @@ rendering, multi-resolution hash encoding, CNN-based feature extraction, and Sig
 from various input data scenarios (multi-view, single)
 
 ### Style Transfer and Improved CNN Performance Using GAN-Based Data Augmentation
+
 - Build and implemented custom CNN and advanced architectures like ResNet50, VGG16 etc to get a baseline performance on
 given data and measure the impact of data augmentation.
 - Developed and trained Conditional GANs (C-GANs) with progressive resolution growth to generate high-quality synthetic data.
@@ -36,6 +41,7 @@ given data and measure the impact of data augmentation.
 domains.
 
 ### AI Based Plant Monitoring System For Identification of Diseases Using Cable Driven Parallel Robot. (Funded)
+
 - Extracted and pre-processed the dataset of various plant diseases.
 - Studied and Implemented 5 different CNN Architectures including (ResNet50, VGG16, VGG19, MobileNet V1 & V2)
 - Did comparitive analysis and deployed these models on (Raspberry Pi) for real time detection using TF-lite.
@@ -47,12 +53,17 @@ domains.
 - Implemented VIT-Vision Transformer from Scratch using Pytorch on CIFAR10 dataset
 - Fine-tuned(Instruction based) Mistral-7B using Q-LoRA on Alpaca Dataset released by Stanford
 - Developed a RAG System for specific Q/A using LangChain
+- Multimodal Vision Language Model from scratch (PaliGemma)
 - Granite Time Series for Energy Forecasting
 
 ## Technical Skills
 
 - **Programming Languages & Frameworks**: Python, C++, C , Verilog, VHDL, Pytorch, Tensorflow, Keras, Huggingface, LLM-API's, Matplotlib, OpenCV, Pillow, Git/Github, Notebooks.
-- **Languages**: English (Fluent), French (Actively Learning) 
+- **Languages**: English (Fluent), French (Actively Learning)
+
+  ## Hackathon
+  ### Mistral AI - MCP Hackathon
+  In this we connected Le Chat to Facebook using MCP, which enabled us to directly post, get engagement stats from Le Chat interface
 
 ## WORK EXPERIENCE	
 
