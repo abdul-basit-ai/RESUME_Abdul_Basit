@@ -18,7 +18,7 @@ Master-2 student in Machine Vision and Artificial Intelligence at UPSaclay in co
 
 ## RESEARCH EXPERIENCE
 
-### Text-Guided Video Segment Search 
+### Multimodal Text-Guided Video Segment Search 
 
 Currently I am working on a research project, text-guided temporal video retrieval, focusing on retrieving specific moments within videos based on natural language queries. 
 
