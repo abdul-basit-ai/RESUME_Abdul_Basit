@@ -20,7 +20,7 @@ Master-2 student in Machine Vision and Artificial Intelligence at UPSaclay in co
 
 ### Multimodal Text-Guided Video Segment Search 
 
-Currently I am working on a research project, text-guided temporal video retrieval, focusing on retrieving specific moments within videos based on natural language queries. 
+Currently I am working on a research project to explore multimodal capabilities for text-guided temporal video retrieval, focusing on retrieving specific moments within videos based on natural language queries. 
 
 ### 3-D Reconstruction of Scenes from Images
 
