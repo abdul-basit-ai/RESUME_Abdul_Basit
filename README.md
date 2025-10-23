@@ -47,7 +47,7 @@ domains.
 - Did comparitive analysis and deployed these models on (Raspberry Pi) for real time detection using TF-lite.
 - Integrated our AI system on the end-effector of our robot and upgraded the robot control's from fixed point to operatable using Xbox-Joyystick using python's library.
 
-## Personal Projects
+## Projects
 
 - Implemented original Transformer paper from Scratch using Pytorch for translation task (FR-ENG)
 - Implemented VIT-Vision Transformer from Scratch using Pytorch on CIFAR10 dataset
