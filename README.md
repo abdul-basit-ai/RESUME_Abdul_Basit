@@ -54,6 +54,7 @@ domains.
 - Implemented Large language model from Scratch (LLaMa2)
 - Implemented original Transformer paper from Scratch using Pytorch for translation task (FR-ENG)
 - Implemented VIT-Vision Transformer from Scratch using Pytorch on CIFAR10 dataset
+- RAG using LangChain for QnA
 - Granite Time Series for Energy Forecasting
 
 ## Technical Skills
