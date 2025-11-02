@@ -59,7 +59,7 @@ domains.
 
 ## Technical Skills
 
-- **Programming Languages & Frameworks**: Python, C++, C , Verilog, VHDL, Pytorch, Tensorflow, Keras, Huggingface, LLM-API's, Matplotlib, OpenCV, Pillow, Git/Github, Notebooks.
+- **Programming Languages & Frameworks**: Python, JAX, C++, C , Verilog, VHDL, Pytorch, Tensorflow, Keras, Huggingface, LLM-API's, Matplotlib, OpenCV, Pillow, Git/Github, Notebooks.
 - **Languages**: English (Fluent), French (Actively Learning)
 
   ## Hackathon
