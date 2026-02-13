@@ -16,11 +16,18 @@ CURRICULUM VITAE
 
 Master-2 student in Machine Vision and Artificial Intelligence at UPSaclay in concluding phase of M.S, specializing in LLM, Computer Vision, Deep learning, Finetuning, RAG, RL and building LLM-based applications. I find myself driven towards Research based projects and I equally enjoy working on the robust engineering and deployment aspects to bring those concepts to life.
 
+## WORK EXPERIENCE
+
+### AI Research Engineer @ ORANGE
+Paris, Feb 2026 - Aug 2026
+
+I am working on AI for Graphs for network optimization and automation.
+
 ## RESEARCH EXPERIENCE
 
 ### Multimodal Text-Guided Video Segment Search 
 
-Currently I am working on a research project to explore multimodal capabilities for text-guided temporal video retrieval, focusing on retrieving specific moments within videos based on natural language queries. 
+I am working on a research project to explore multimodal capabilities for text-guided temporal video retrieval, focusing on retrieving specific moments within videos based on natural language queries. This mainly includes study the of different sampling starategies (uniform, adaptive and dynamic).
 
 ### 3-D Reconstruction of Scenes from Images
 
