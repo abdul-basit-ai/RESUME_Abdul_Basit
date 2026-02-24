@@ -20,9 +20,9 @@ Master-2 student in Machine Vision and Artificial Intelligence at UPSaclay in co
 
 ### AI Research Engineer @ ORANGE
 Paris, Feb 2026 - Present 
-Supervisor: Miss Kahina Mokrani (kahina.mokrani@orange.com)
+## Supervisor: Miss Kahina Mokrani (kahina.mokrani@orange.com)
 
-I am an AI Research Intern working on network data. My work includes modeling complex network topologies and building performance enhanced GNNs and to develop end-to-end machine learning pipelines extracting KPIs, writing custom training loops and orchestrating distributed training on high-performance clusters.
+I am an AI Research Intern working on network data. My work includes modeling complex network topologies and building performance enhanced GNNs and to develop end-to-end machine learning pipelines extracting KPIs, writing custom training loops and distributed training on high-performance clusters.
 
 ### Engineering Intern - Aquagen Pvt.Ltd (Aug 2023-Sept 2023)
 During my internship, I implemented PLC code for process automation, ensuring accurate feedback from the sensor. I also identified and resolved issues in the PLC system. I also upgraded the HMI for monitoring the Generation of the plant. 
