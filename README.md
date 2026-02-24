@@ -18,8 +18,7 @@ Master-2 student in Machine Vision and Artificial Intelligence at UPSaclay in co
 
 ## WORK EXPERIENCE
 
-### AI Research Engineer @ ORANGE
-Paris, Feb 2026 - Present 
+### AI Research Engineer @ ORANGE (Paris, Feb 2026 - Present) 
 #### Supervisor: Miss Kahina Mokrani (kahina.mokrani@orange.com)
 
 I am an AI Research Intern working on network data. My work includes modeling complex network topologies and building performance enhanced GNNs and to develop end-to-end machine learning pipelines extracting KPIs, writing custom training loops and distributed training on high-performance clusters.
