@@ -14,20 +14,24 @@ CURRICULUM VITAE
 
   ## Summary
 
-Master-2 student in Machine Vision and Artificial Intelligence at UPSaclay in concluding phase of M.S, specializing in LLM, Computer Vision, Deep learning, Finetuning, RAG, RL and building LLM-based applications. I find myself driven towards Research based projects and I equally enjoy working on the robust engineering and deployment aspects to bring those concepts to life.
+Master-2 student in Machine Vision and Artificial Intelligence at UPSaclay in concluding phase of M.S, specializing in LLM, Computer Vision, Deep learning, Finetuning, RAG, RL, Graphs, AI-agents and building LLM-based applications. I find myself driven towards Research based projects and I equally enjoy working on the robust engineering and deployment aspects to bring those concepts to life and test in wild.
 
 ## WORK EXPERIENCE
 
 ### AI Research Engineer @ ORANGE
-Paris, Feb 2026 - Aug 2026
+Paris, Feb 2026 - Present 
+Supervisor: Miss Kahina Mokrani (kahina.mokrani@orange.com)
 
-I am working on AI for Graphs for network optimization and automation.
+I am an AI Research Intern working on network data. My work includes modeling complex network topologies and building performance enhanced GNNs and to develop end-to-end machine learning pipelines extracting KPIs, writing custom training loops and orchestrating distributed training on high-performance clusters.
+
+### Engineering Intern - Aquagen Pvt.Ltd (Aug 2023-Sept 2023)
+During my internship, I implemented PLC code for process automation, ensuring accurate feedback from the sensor. I also identified and resolved issues in the PLC system. I also upgraded the HMI for monitoring the Generation of the plant. 
 
 ## RESEARCH EXPERIENCE
 
 ### Multimodal Text-Guided Video Segment Search 
 
-I am working on a research project to explore multimodal capabilities for text-guided temporal video retrieval, focusing on retrieving specific moments within videos based on natural language queries. This mainly includes study the of different sampling starategies (uniform, adaptive and dynamic).
+I  conducted a comprehensive study and analysis of state-of-the-art techniques to explore multimodal capabilities for text-guided temporal video retrieval, focusing on retrieving specific moments within videos based on natural language queries. This mainly includes study the of different sampling starategies (uniform, adaptive and dynamic) to reterive the most informative frames effeciently.
 
 ### 3-D Reconstruction of Scenes from Images
 
@@ -61,8 +65,7 @@ domains.
 - Implemented Large language model from Scratch (LLaMa2)
 - Implemented original Transformer paper from Scratch using Pytorch for translation task (FR-ENG)
 - Implemented VIT-Vision Transformer from Scratch using Pytorch on CIFAR10 dataset
-- RAG using LangChain for QnA
-- Granite Time Series for Energy Forecasting
+- Implemented CLIP from scratch using JAX
 
 ## Technical Skills
 
@@ -71,12 +74,7 @@ domains.
 
   ## Hackathon
   ### Mistral AI - MCP Hackathon
-  In this we connected Le Chat to Facebook using MCP, which enabled us to directly post, get engagement stats from Le Chat interface
-
-## WORK EXPERIENCE	
-
-### Engineering Intern - Aquagen Pvt.Ltd (Aug 2023-Sept 2023)
-During my internship, I implemented PLC code for process automation, ensuring accurate feedback from the sensor. I also identified and resolved issues in the PLC system. I also upgraded the HMI for monitoring the Generation of the plant.   
+  In this we connected Le Chat to Facebook using MCP, which enabled us to directly post, get engagement stats from Le Chat interface  
 
   ## EDUCATION
 
@@ -84,7 +82,7 @@ During my internship, I implemented PLC code for process automation, ensuring ac
 - Electives: (Reinforcement Learning, Advances in Machine Vision, Advanced Machine Learning, Virtual and Mixed Reality, 3-D Data Analysis, Computer Vision for non-conventional cameras)
 ### M1 Engineering (E3A)
 University of Paris Saclay *2024 - 2026*
-- Electives (Machine Learning, Advances in Machine Vision, Reinforcement Learning, Image and Video Processing, Statistical Machine Learning, Information theory and Source Coding, Embedded Systems, Progamming)
+- Electives (Machine Learning, Advances in Machine Vision, Image and Video Processing, Statistical Machine Learning, Information theory and Source Coding, Embedded Systems, Progamming)
   
 ### Bachelor of Engineering (EE)
 Bahria Univeristy *2020 - 2024*
@@ -101,7 +99,7 @@ Awarded a Laptop from PMYLS
  ### Dr Hedia Tabia
  - Professor at University of Paris Saclay
  - Email : hedi.tabia@univ-evry.fr
- - (Supervised my projects during Master1&2)
+ - (Supervised my projects during Master1 and 2)
  ### Dr Abdul Attayyab Khan
   - Professor at Bahria Univeristy
  - Email : aakhan.bukc@bahria.edu.pk
@@ -109,9 +107,9 @@ Awarded a Laptop from PMYLS
 
 ## MANAGEMENT AND LEADERSHIP SKILLS
 ### Head of Operations
-I served as Head of Operation in the Bahria Visionary Club for almost 2 semesters. A Society committed to helping students with
-personal development and social communication skills. During this duration, we organized different workshops, seminars, food
-drives, and community service visits
+I served as Head of Operation in the Bahria Visionary Club for 3 semesters. A Society committed to helping students with
+personal development and social communication skills. During this duration, I helped organized different workshops, seminars, food
+drives, and community service visits.
 
 
 
