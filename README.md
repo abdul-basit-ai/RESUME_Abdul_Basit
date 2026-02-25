@@ -16,6 +16,9 @@ CURRICULUM VITAE
 
 Master-2 student in Machine Vision and Artificial Intelligence at UPSaclay in concluding phase of M.S, specializing in LLM, Computer Vision, Deep learning, Finetuning, RAG, RL, Graphs, AI-agents and building LLM-based applications. I find myself driven towards Research based projects and I equally enjoy working on the robust engineering and deployment aspects to bring those concepts to life and test in wild.
 
+### Research Interests
+Continual Learning, NLP, Computer Vision, Graphs, Generative AI, Agentic Systems, Foundational Models
+
 ## WORK EXPERIENCE
 
 ### AI Research Engineer @ ORANGE (Paris, Feb 2026 - Present) 
